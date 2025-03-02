@@ -1,16 +1,40 @@
-# tikladoy
+🍽️ TıklaDoy
 
-A new Flutter project.
+TıklaDoy, Flutter kullanılarak geliştirilmiş bir yemek sipariş uygulamasıdır. Kullanıcılar, API’den gelen yemek listesini görüntüleyebilir, detaylarını inceleyebilir, sepete ekleyebilir ve sepetten silebilir. 📱🚀
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+📌 Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- 📋 Yemek Listeleme: API üzerinden yemekleri çekerek listeler.
+- 🔍 Detay Görüntüleme: Seçilen yemeğin detaylarını gösterir.
+- 🛒 Sepete Ekleme & Silme: Kullanıcılar yemekleri sepete ekleyebilir ve çıkarabilir.
+- 🎯State Management:Bloc Pattern kullanılarak yönetilmektedir.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🏗️ Kullanılan Teknolojiler
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter - UI geliştirme
+- Dart - Programlama dili
+- Bloc Pattern - State management
+- Dio - API istekleri
+
+🚀 Kurulum
+
+1. Depoyu klonlayın:
+2. 
+   git clone https://github.com/BerzanErdal/TiklaDoyUygulamasi.git
+
+   
+3. Bağımlılıkları yükleyin:
+
+   flutter pub get
+ 
+4. Uygulamayı çalıştırın:
+   
+   flutter run
+   
+
+
+📸 Ekran Görüntüleri
+
+![image](https://github.com/user-attachments/assets/63ab6bbe-c8ce-48c4-adee-e76cfc4da8fb)
+
