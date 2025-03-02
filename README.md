@@ -36,5 +36,7 @@ TıklaDoy, Flutter kullanılarak geliştirilmiş bir yemek sipariş uygulamasıd
 
 📸 Ekran Görüntüleri
 
-![image](https://github.com/user-attachments/assets/63ab6bbe-c8ce-48c4-adee-e76cfc4da8fb)
+![image](https://github.com/user-attachments/assets/63ab6bbe-c8ce-48c4-adee-e76cfc4da8fb)             ![image](https://github.com/user-attachments/assets/b3848b41-b217-499f-902e-f5323ed2e5c6)                   ![image](https://github.com/user-attachments/assets/e56ae523-ec6d-4236-ba6c-e1700bc58508)
+  
+
 
